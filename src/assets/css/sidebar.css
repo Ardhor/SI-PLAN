@@ -1,0 +1,9 @@
+#list-penjualan {
+    display: none;
+}
+#list-pembayaran {
+    display: none;
+}
+#list-pembayaran .active{
+    display: flex;
+}
